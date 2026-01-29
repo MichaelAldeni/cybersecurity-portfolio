@@ -6,6 +6,7 @@ This repository contains technical reports and hands-on projects focused on cybe
 - Capture The Flag (CTF) technical reports
 
 # Three-node
+<pre>
 cybersecurity-portfolio/
 │
 ├── ctf/
@@ -24,3 +25,4 @@ cybersecurity-portfolio/
 │       ├── signature.py
 │       └── report.pdf
 └── README.md
+</pre>

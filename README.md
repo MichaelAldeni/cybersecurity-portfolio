@@ -1,2 +1,26 @@
-# cybersecurity-portfolio
-Technical reports and hands-on projects focused on cybersecurity
+# Cybersecurity-portfolio
+This repository contains technical reports and hands-on projects focused on cybersecurity.
+
+# Areas
+- Reverse Engineering (Malware static and dynamic analysis)
+- Capture The Flag (CTF) technical reports
+
+# Three-node
+cybersecurity-portfolio/
+|
+├── ctf/
+├── reverse-engineering/
+|   ├── sample01/
+|   |   ├── report.md
+|   |   └── report.pdf
+|   └── report-structure.md
+├── cryptography/
+|   ├── performance-analysis/
+|   |   ├── symmetric-algorithms.pdf
+|   |   └── encrypt-than-mac.pdf
+|   └── secure-communication/
+|       ├── alice.py
+|       ├── bob.py
+|       ├── signature.py
+|       └── report.pdf
+└── README.md

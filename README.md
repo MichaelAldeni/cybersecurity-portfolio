@@ -7,20 +7,20 @@ This repository contains technical reports and hands-on projects focused on cybe
 
 # Three-node
 cybersecurity-portfolio/
-|
+│
 ├── ctf/
 ├── reverse-engineering/
-|   ├── sample01/
-|   |   ├── report.md
-|   |   └── report.pdf
-|   └── report-structure.md
+│   ├── sample01/
+│   │   ├── report.md
+│   │   └── report.pdf
+│   └── report-structure.md
 ├── cryptography/
-|   ├── performance-analysis/
-|   |   ├── symmetric-algorithms.pdf
-|   |   └── encrypt-than-mac.pdf
-|   └── secure-communication/
-|       ├── alice.py
-|       ├── bob.py
-|       ├── signature.py
-|       └── report.pdf
+│   ├── performance-analysis/
+│   │   ├── symmetric-algorithms.pdf
+│   │   └── encrypt-then-mac.pdf
+│   └── secure-communication/
+│       ├── alice.py
+│       ├── bob.py
+│       ├── signature.py
+│       └── report.pdf
 └── README.md

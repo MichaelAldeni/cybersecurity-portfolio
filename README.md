@@ -4,6 +4,7 @@ This repository contains technical reports and hands-on projects focused on cybe
 # Areas
 - Reverse Engineering (Malware static and dynamic analysis)
 - Capture The Flag (CTF) technical reports
+- Cryptography/Secure communication
 
 # Three-node
 <pre>
